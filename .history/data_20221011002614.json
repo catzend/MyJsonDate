@@ -1,0 +1,27 @@
+{
+    "name": "Bill Gates",
+    "tu": [
+        {
+            "src": "Porsche"
+        },
+        {
+            "src": "BMW"
+        },
+        {
+            "src": "Volvo",
+            "models": ["XC60", "V60"]
+        }
+    ],
+    "cars": [
+        {
+            "src": "Porsche"
+        },
+        {
+            "src": "BMW"
+        },
+        {
+            "src": "Volvo",
+            "models": ["XC60", "V60"]
+        }
+    ]
+}
